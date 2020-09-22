@@ -3,7 +3,5 @@
 - Format of file Name:
 
          <leetcode problem no>_<method_in_Solution()_class>.py
-- Leetcode Profile:
-
-        <https://leetcode.com/vgattani/>
+- Leetcode Profile: <https://leetcode.com/vgattani/>
 - Adding readme as I have crossed 100 Solutions [22 Sep 2020]
